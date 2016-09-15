@@ -14,7 +14,7 @@ E, com este conjunto de números você aprendeu a criar combinações entre eles
 52 | 437
 ```
 
-Esta maneira de escrita de números possui um nome: notação decimal. "Decimal" provém do latim "decem", que significa 10. É um número bastante especial. Vamos analisar o número 437 escrito em notação decimal:  
+Esta maneira de escrita de números possui um nome: notação decimal. "Decimal" provém do latim "decem", que significa 10. O 10 é um número bastante especial na notação decimal. Vamos analisar o número 437 escrito em notação decimal:  
 
 Nós podemos quebrar este número da seguinte maneira:  
 
@@ -40,4 +40,10 @@ Porém, a notação decimal NÃO é a única maneira de representar números.
 __0__ | __1__ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
 ```
 
-Apenas utilizando os números destacados, nós possuímos uma outra forma de representação: a notação binária.  
+Apenas utilizando os números destacados, nós possuímos uma outra forma de representação: a notação binária. Agora que temos 0 e 1 em nosso conjunto, 2 será nosso número especial. "Binário" vem de "bi" que significa 2. Agora em vez de termos casas decimais com seus lugares para 1, 2, 3, 4, etc, nós temos casas com potências de 2.
+
+```
+128 | 64 | 32 | 16 | 8 | 4 | 2 | 1
+```
+
+Assim, podemos dizer que 10, interpretado em notação binária, seria na verdade 2. Para representarmos o número 4, por exemplo, escreveríamos 100.
